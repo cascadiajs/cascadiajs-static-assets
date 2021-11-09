@@ -1,7 +1,7 @@
 {
-  "name": "begin-app",
+  "name": "cascadiajs-static",
   "version": "0.0.0",
-  "description": "A simple Begin app with the minimum necessary file structure",
+  "description": "static files in support of CascadiaJS websites",
   "scripts": {
     "start": "npx sandbox"
   },
